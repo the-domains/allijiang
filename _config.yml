@@ -1,6 +1,6 @@
 name: ALLI JIANG
 favicon: null
-layout_spectrum: 0.3730843751691282
+layout_spectrum: 0.50395
 typography_spectrum: 1
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#333333'
     - '#535353'
   brandStrength: 0.5
-  lightness: 0.4963766310829669
-  saturation: 1
-  rhythmicContrast: 0.6582931925076991
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
