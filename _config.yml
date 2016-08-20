@@ -1,0 +1,28 @@
+name: ALLI JIANG
+favicon: null
+layout_spectrum: 0.3730843751691282
+typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#f3f3f3'
+    - '#050505'
+    - '#838383'
+    - '#333333'
+    - '#535353'
+  brandStrength: 0.5
+  lightness: 0.4963766310829669
+  saturation: 1
+  rhythmicContrast: 0.6582931925076991
+purpose: []
