@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '[ROOM] - Cheryl'
-datePublished: '2016-08-20T01:05:52.584Z'
-dateModified: '2016-08-20T01:05:37.234Z'
+datePublished: '2016-08-20T01:11:36.014Z'
+dateModified: '2016-08-20T01:06:01.159Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-20-room-cheryl.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-20-room-cheryl.md
 url: room-cheryl/index.html
 _type: Article
 
